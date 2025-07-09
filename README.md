@@ -26,4 +26,8 @@ STAANet is a deep learning framework based on Spiking Neural Networks (SNN) and 
 - **spikingjelly**:0.14
 - NumPy, Matplotlib, tqdm, scikit-learn, and other common scientific computing libraries
 
+## How to start
+
+Download the EEGDenoise dataset and MIT-BIH Arrhythmia Database from https://github.com/ncclabsustech/EEGdenoiseNet and https://www.physionet.org/content/mitdb/1.0.0/, and use the code in the data folder to generate a semi-simulated dataset for model training and testing. Modify the parameter settings in main.py according to the corresponding configuration to directly train STAANet.
+
   
