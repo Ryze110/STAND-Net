@@ -16,7 +16,7 @@ STAANet is a deep learning framework based on Spiking Neural Networks (SNN) and 
 
 ## Model Structure
 
-
+![示例图片](Fig/Overall structure of the model.jpg)
 
 
 ## Requirements
