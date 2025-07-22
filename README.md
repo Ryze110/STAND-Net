@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-STAANet is a deep learning framework based on Spiking Neural Networks (SNN) and attention mechanisms for EEG signal denoising. This project is specifically designed to remove various physiological artifacts from EEG signals, including EMG (electromyography), EOG (electrooculography), and ECG (electrocardiography) interference.
+STAND-Net is a deep learning framework based on Spiking Neural Networks (SNN) and attention mechanisms for EEG signal denoising. This project is specifically designed to remove various physiological artifacts from EEG signals, including EMG (electromyography), EOG (electrooculography), and ECG (electrocardiography) interference.
 
 ## Key Features
 
@@ -29,6 +29,6 @@ STAANet is a deep learning framework based on Spiking Neural Networks (SNN) and 
 
 ## How to start
 
-Download the EEGDenoise dataset and MIT-BIH Arrhythmia Database from https://github.com/ncclabsustech/EEGdenoiseNet and https://www.physionet.org/content/mitdb/1.0.0/, and use the code in the data folder to generate a semi-simulated dataset for model training and testing. Modify the parameter settings in main.py according to the corresponding configuration to directly train STAANet.
+Download the EEGDenoise dataset and MIT-BIH Arrhythmia Database from https://github.com/ncclabsustech/EEGdenoiseNet and https://www.physionet.org/content/mitdb/1.0.0/, and use the code in the data folder to generate a semi-simulated dataset for model training and testing. Modify the parameter settings in main.py according to the corresponding configuration to directly train STAND-Net.
 
   
