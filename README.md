@@ -1,4 +1,5 @@
-# STAANet: Spiking Temporal Attention Autoencoder Network for EEG Signal High-Quality and Power-Efficient Denoising
+# STAND-Net: A Spiking Temporal Attention autoeNcoDer Network for Efficient EEG Artifact Removal
+
 
 
 ## Project Overview
