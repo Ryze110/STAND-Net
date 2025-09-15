@@ -13,7 +13,7 @@ STAND-Net is a deep learning framework based on Spiking Neural Networks (SNN) an
 - **Multi-Artifact Support**: Supports removal of EMG, EOG, ECG artifacts and their combinations
 - **Autoencoder Design**: End-to-end signal reconstruction using encoder-decoder architecture
 - **Configurable Time Steps**: Supports customizable SNN simulation time steps
-- **Comprehensive Evaluation**: Provides multiple evaluation metrics including MSE, MAE, RRMSE, SNR, PSNR, and correlation coefficient
+- **Comprehensive Evaluation**: Provides multiple evaluation metrics including  RRMSE, SNR, PSNR, and correlation coefficient
 
 ## Model Structure
 
